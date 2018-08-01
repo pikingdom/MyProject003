@@ -1,0 +1,1 @@
+void testWriteFile(char *fileName);
